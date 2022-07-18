@@ -1,0 +1,42 @@
+h1
+{  
+    padding: 1em;
+    color: white;
+    background-image: linear-gradient(blue,yellow);
+    clear: left;
+    text-align:center ; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2
+{
+    overflow: hidden;
+    text-align: right;
+   
+}
+
+nav {
+    float: left;
+    margin: 0;
+    padding: 1em;
+    background-image: linear-gradient(red,yellow);
+}
+
+article {
+    
+    padding: 1em;
+    overflow: hidden;
+}
+
+p{
+    font-weight: 600;
+    font-size: larger;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-image:linear-gradient(red,yellow);
+   color: rgb(244, 244, 244);
+}
+
+
+
+section{
+    margin-left:350px;
+}
