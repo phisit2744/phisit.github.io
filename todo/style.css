@@ -1,0 +1,29 @@
+button{
+    background-color: aqua;
+}
+
+.play{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul li{
+    width:50%;
+    line-height: 40px;
+    position: relative;
+    display:block;
+    margin: 5px 0;
+    
+    box-shadow: 10px 6px 4px rgb(227, 59, 59);
+}
+
+ul li span{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    
+}
+
+body{
+    background-color: lightgreen;
+}
